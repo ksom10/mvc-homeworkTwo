@@ -1,0 +1,12 @@
+{
+  "name": "homeworktwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass scss/styles.scss css/styles.css -w"
+  },
+  "author": "Kameron Someson",
+  "license": "ISC"
+}
